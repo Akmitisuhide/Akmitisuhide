@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Akmitisuhide
+- 👀 I’m interested in becoming a great coder and dev so i can have a stable financial situation
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 💞️ I’m looking to collaborate on 
+- 📫 Reach me using my discord The Lost#1925, or my facebook, Miguel Berlofa
