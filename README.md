@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Akmitisuhide
-- 👀 I’m interested in becoming a great coder and dev so i can have a stable financial situation
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 Reach me using my discord The Lost#1925, or my facebook, Miguel Berlofa
+- 👋 Hi, I’m Miguel Berlofa.
+- 👀 I’m interested in becoming a great coder and dev so i can have a stable financial situation.
+- 🌱 I’m currently learning SQL, C++, HTML, PHP and CSS.
+- 💞️ Im looking to improve my programming skills and knowledge every day.
+- 📫 Reach me using my social media on Facebook: https://www.facebook.com/profile.php?id=100011203893121.
